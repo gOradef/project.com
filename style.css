@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-size: 14px;
+  font-family:'Times New Roman', Times, sans-serif;
+  overflow: hidden;
+  
+}
+.main_header {
+background: white url(2veek29rath51.jpg);
+background-size:cover;
+padding: 8px;
+color: white;
+text-shadow: 0 2px 2px black;
+box-shadow:0 0 8px black;
+height: auto;
+}
+
+.pj_name {
+text-align: center;
+justify-content: end;
+position: static;
+}
+.by_the {
+  text-align: end;
+  position: static;
+  text-shadow: none;
+  text-shadow: 0 1px 1px black ;
+}
+.link_onme  {
+text-decoration: none;
+text-shadow: 0 1em 1em black;
+}
+.link_onme:visited {
+  text-decoration: none;
+  color: rgb(96, 96, 220);
+}
+.overlay {
+  background-color: rgba(255, 255, 255, 0.153);
+  position: fixed;
+/*work will be/ overlay*/
+}
+
+.nav_main{
+  background: linear-gradient(45deg, blueviolet, deeppink);
+  box-shadow: 0 0 5px black;
+  position: sticky;
+  top: 0;
+  border-radius: 2px;
+}
+.nav_focused {
+  background-color: #444;
+  padding: 10px 25px;
+  border-radius: 20px;
+  text-decoration:none;
+  display: inline-block;
+  color: white;
+}
+.nav_sel , .nav_selindex , .nav_selexp {
+content: end;
+text-decoration:none;
+color: white;
+padding: 10px 25px;
+display: inline-block;
+}
+.nav_sel:hover {
+  background-color: #334;
+  border-radius: 20px;
+}
+.nav_sel:focus {
+  background-color: #444;
+  padding: 10px 25px;
+  border-radius: 20px;
+}
+.main_pagetext{
+  font-size: 18px;
+}
+.idea {
+  margin:7px;
+}
