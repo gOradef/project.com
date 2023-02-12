@@ -11,16 +11,11 @@
                                    <!-- main header -->
   <?php require_once $_SERVER['DOCUMENT_ROOT'].'/shablons/header.php';?>
   <div class="main_pagetext">
-    <h4>Сайт-резюме</h4>
-  <article class="idea" id="2p">
-    <p>Это страница, содержащая информацию о опыте работы, а также образовании
-    </p>
-  </article>
-  <article class="idea" id="3p">
-    <p>(Текст)
-    </p>
-  </article>
-</div>
+    <div class="container" style="margin-top:15px;">
+        <p>Данная страница содержит в себе опыт работы с различными языками программирования</p>
+        <p>Сейчас опыт в разработке проектов довольно беден, но вскоре он пополнится не одним десятком проектов! =)</p>
+    </div>
+  </div>
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/shablons/footer.php';?>
 </body>
 </html>
