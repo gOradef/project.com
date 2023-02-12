@@ -41,7 +41,31 @@
   </div>
 
   <div class="logd">
+    <div class="skills1">
+      <div class="inline">
+        <div class="skill1"> HTML <br>
+          <span class="circle0"></span>
+          <span class="circle1"></span>
+          <span class="circle2"></span> 
+          <span class="circle3"></span>
+        </div>
 
+        <div class="skill2" style='text-align:center;'> CSS <br>
+          <span class="circle0"></span>
+          <span class="circle1"></span>
+          <span class="circle2"></span> 
+          <span class="circle3"></span>
+        </div>
+
+        <div class="skill3" style='text-align:center;'> JavaScript <br>
+          <span class="circle0"></span>
+          <span class="circle1"></span>
+          <span class="circle2"></span> 
+          <span class="circle3"></span>
+        </div>
+        
+      </div> 
+    </div>
   </div>
                           <!--  \bals -->
 </div>
