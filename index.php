@@ -13,7 +13,7 @@
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/shablons/header.php';?>
 <main>  
   <div class="main_pagetext">
-    <div class="Hi"><h2 class="Hi" style=text-align: center;"><span class="spanblock">Привет!</span></h2></div>
+    <div class="Hi"><h2 class="Hi" style=text-align: center;><span class="spanblock">Привет!</span></h2></div>
     <div class="container">
       <p>Это основная страница данного сайта. Главная цель этого раздела рассказать о замысле этой конструкции, а также ее преимуществах по сравнению с обычным резюме.</p>
       <p>Самое главное преимущество, по моему мнению, доступность. Данный сайт будет всегда активен и готов отправить пользователю данные о своем создателе. В любой момент, по уникальному адресу эту страницу можно будет октрыть и представить человеку свои навыки. <br>
@@ -22,6 +22,7 @@
   </div>
 </main>
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/shablons/footer.php';?>
+<script src="https://unpkg.com/css-doodle@0.34.3/css-doodle.min.js"></script>
   </body>
   
 </html>

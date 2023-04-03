@@ -44,23 +44,23 @@
     <div class="skills1">
       <div class="inline">
         <div class="skill1"> HTML <br>
-          <span class="circle0"></span>
-          <span class="circle1"></span>
-          <span class="circle2"></span> 
-          <span class="circle3"></span>
+          <span class="circle0 circle-html"></span>
+          <span class="circle1 circle-html"></span>
+          <span class="circle2 circle-html"></span> 
+          <span class="circle3 circle-html"></span>
         </div>
 
         <div class="skill2" style='text-align:center;'> CSS <br>
-          <span class="circle0"></span>
-          <span class="circle1"></span>
-          <span class="circle2"></span> 
+          <span class="circle0 circle-css"></span>
+          <span class="circle1 circle-css"></span>
+          <span class="circle2 circle-css"></span> 
           <span class="circle3"></span>
         </div>
 
         <div class="skill3" style='text-align:center;'> JavaScript <br>
-          <span class="circle0"></span>
-          <span class="circle1"></span>
-          <span class="circle2"></span> 
+          <span class="circle0 circle-js"></span>
+          <span class="circle1 circle-js"></span>
+          <span class="circle2 circle-js"></span> 
           <span class="circle3"></span>
         </div>
         
